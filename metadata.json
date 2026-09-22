@@ -1,0 +1,6 @@
+{
+  "name": "INVESTIGATOR AI",
+  "description": "منصة التحليل الاستخباري والاتصالات والبيانات الجغرافية - Investigative Intelligence & Telecom Data Analysis Platform",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
